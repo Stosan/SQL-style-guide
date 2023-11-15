@@ -1,4 +1,4 @@
-# Brooklyn Data Co. SQL style guide
+# SQL style guide
 
   - [General guidelines](#general-guidelines)
   - [Syntax](#syntax)
@@ -919,8 +919,4 @@ where plan_name in ('monthly', 'yearly')
 <br>
 
 ## Credits
-
-This style guide was inspired in part by:
-  - [Fishtown Analytics' dbt coding conventions](https://github.com/fishtown-analytics/corp/blob/b5c6f55b9e7594e1a1e562edf2378b6dd78a1119/dbt_coding_conventions.md)
-  - [Matt Mazur's SQL style guide](https://github.com/mattm/sql-style-guide/blob/3eaef3519ca5cc7f21feac6581b257638f9b1564/README.md)
-  - [GitLab's SQL style guide](https://about.gitlab.com/handbook/business-ops/data-team/sql-style-guide/)
+  - [Brooklyn Data Co.](https://github.com/brooklyn-data)
